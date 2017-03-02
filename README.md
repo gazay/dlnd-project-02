@@ -2,4 +2,4 @@
 
 Image classification with conv network
 
-This notebook was processed on [floydhub.com](floydhub.com)
+This notebook was processed on [floydhub.com](https://floydhub.com)
